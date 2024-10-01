@@ -1,0 +1,64 @@
+.bg-rpda {
+	background-color: #e1f5f1;
+}
+.bg-rpbd {
+	background-color: #fbe9da;
+}
+.bg-rpdc {
+	background-color: #f8e0e7;
+}
+.text-rpda {
+	color: #33866c;
+}
+.text-rpbd {
+	color: #ec944a;
+}
+.text-rpdc {
+	color: #e25780;
+}
+* {
+	font-family: "Inter", sans-serif;
+}
+.navbar {
+	background-color: #e8f2fd;
+}
+.navbar-brand img,
+.logo img {
+	height: 70px;
+	width: 70px;
+}
+.navbar-brand .title,
+.logo .title {
+	max-width: 270px;
+	font-size: 14px;
+}
+body {
+	background-color: #f8f9fb;
+}
+main .hero {
+	background-size: cover;
+	height: 40vw;
+	max-height: 470px;
+}
+main .counter .title {
+	font-size: 30px;
+}
+
+main .action,
+main .counter .card {
+	cursor: pointer;
+}
+
+main .counter .item .title {
+	line-height: 80px;
+	font-size: 90px;
+}
+main .counter .item .subtitle {
+	font-size: 13px;
+}
+main .counter .item .info h3 {
+	font-size: 14px;
+}
+main .counter .item .info p {
+	font-size: 30px;
+}
